@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "352110890650",
+    "project_id": "ecommerce1-8a9fd",
+    "storage_bucket": "ecommerce1-8a9fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352110890650:android:15c66ce088a4c7eac29923",
+        "android_client_info": {
+          "package_name": "com.example.verygoodcore.ecommerce1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352110890650-n68oj76llc595crps4jk9qg0a30lgvj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqb3e-6mU8eOZ7hPZOinVbkI_ogI9LrSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352110890650-n68oj76llc595crps4jk9qg0a30lgvj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352110890650:android:73c4726cea8da61fc29923",
+        "android_client_info": {
+          "package_name": "com.example.verygoodcore.ecommerce_user.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352110890650-n68oj76llc595crps4jk9qg0a30lgvj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqb3e-6mU8eOZ7hPZOinVbkI_ogI9LrSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352110890650-n68oj76llc595crps4jk9qg0a30lgvj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
